@@ -2,11 +2,11 @@ const steamUser = require('steam-user');
 const steamTotp = require('steam-totp');
 const keep_alive = require('./keep_alive.js')
 
-var username = 'vasquezrodriguez';
+var username = 'pigoenlover69';
 var password = 'Jajko123!';
 var shared_secret = '';
 
-var games = [1910580, 2157110];  // Enter here AppIDs of the needed games
+var games = [2157110];  // Enter here AppIDs of the needed games
 var status = 1;  // 1 - online, 7 - invisible
 
 
